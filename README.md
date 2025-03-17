@@ -29,7 +29,6 @@ Skilled in analyzing complex data sets, identifying key insights, and delivering
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 [![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
