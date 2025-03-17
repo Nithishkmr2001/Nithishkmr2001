@@ -29,29 +29,8 @@ Skilled in analyzing complex data sets, identifying key insights, and delivering
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 [![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Data Analyst Portfolio</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <header>
-        <h1>Welcome to My Portfolio</h1>
-        <p>Explore my work and experience as a Data Analyst</p>
-    </header>
-    <nav>
-        <button onclick="location.href='about.html'">About Me</button>
-        <button onclick="location.href='projects.html'">Projects</button>
-        <button onclick="location.href='contact.html'">Contact</button>
-    </nav>
-</body>
-</html>
 
-
-
----
+   ---
 
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
