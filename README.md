@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"> I'm <a href="https://in.linkedin.com/in/nithish-kumar2001"><b>Nithish Kumar</b></a>.
 <h3 align="center"> Data Analyst | Adept @ MySQL - Power BI - Excel - Python | </h3></h1>
- Meticulous Data Analyst with strong proficiency in data analytics tools and techniques. Passionate about utilizing data to drive informed business decisions and improve organizational performance.</h3>
+ Meticulous Data Analyst with strong proficiency in data analytics tools and techniques. Passionate about utilizing data to drive informed business decisions and improve organizational performance.
 <h4></h4>
 Skilled in analyzing complex data sets, identifying key insights, and delivering actionable recommendations to optimize business strategies. Committed to applying analytical expertise to enhance business operations and contribute to overall success.<br>
 <br>
