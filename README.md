@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> Hello All, I'm <a href="https://in.linkedin.com/in/nithish-kumar2001"><b>Nithish Kumar!</b></a>.
+<h1 align="center"> I'm <a href="https://in.linkedin.com/in/nithish-kumar2001"><b>Nithish Kumar</b></a>.
 <h3 align="center"> Data Analyst | Adept @ MySQL - Power BI - Excel - Python | </h3></h1>
  Meticulous Data Analyst with strong proficiency in data analytics tools and techniques. Passionate about utilizing data to drive informed business decisions and improve organizational performance.  </h3>
 <h4></h4>
